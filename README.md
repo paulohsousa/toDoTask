@@ -1,2 +1,2 @@
 # toDoTask
-Cirador de lista de tarefas
+Criador de lista de tarefas
